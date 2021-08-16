@@ -12,7 +12,7 @@ function myFunction(){
     status.style.color = "white"
 
     if(d1 == d2){
-        status.innerHTML = "YOU ROLLED " + dTotal + ", DOUBLES!!<br> You get a free turn";
+        status.innerHTML = "YOU ROLLED " + dTotal + " , DOUBLES!!<br> You get a free turn";
         status.style.color = "red";
         status.style.fontSize = "25px";
     }
